@@ -1,4 +1,4 @@
-Discrete Optimization Specialization: MOOC "Basic Modeling for Discrete Optimization"
+# Discrete Optimization Specialization: MOOC "Basic Modeling for Discrete Optimization"
 https://www.coursera.org/learn/basic-modeling
 
 By Romanko Vladimir, July-August 2019  
