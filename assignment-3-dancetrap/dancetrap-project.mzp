@@ -1,0 +1,63 @@
+{
+    "builtinSolverConfigs": [
+    ],
+    "openFiles": [
+        "dancetrap-with-FA.mzn",
+        "dancetrap-without-FA.mzn",
+        "data/dancetrap_0.dzn",
+        "data/dancetrap_1.dzn",
+        "data/dancetrap_2.dzn",
+        "data/dancetrap_3.dzn",
+        "data/dancetrap_4.dzn"
+    ],
+    "openTab": 0,
+    "projectFiles": [
+        "dancetrap-with-FA.mzn",
+        "dancetrap-without-FA.mzn",
+        "data/dancetrap_0.dzn",
+        "data/dancetrap_1.dzn",
+        "data/dancetrap_2.dzn",
+        "data/dancetrap_3.dzn",
+        "data/dancetrap_4.dzn"
+    ],
+    "projectSolverConfigs": [
+        {
+            "additionalCompilerCommandline": "",
+            "additionalData": "",
+            "clearOutputWindow": true,
+            "compressSolutionOutput": 0,
+            "defaultBehavior": false,
+            "extraOptions": {
+                "-a-d": "2",
+                "-c-d": "8",
+                "-decay": "0.99",
+                "-fail": "0",
+                "-node": "0",
+                "-nogoods": "false",
+                "-nogoods-limit": "128",
+                "-restart": "none",
+                "-restart-base": "1.5",
+                "-restart-scale": "250"
+            },
+            "flatteningStats": false,
+            "freeSearch": false,
+            "id": "org.gecode.gecode",
+            "nThreads": 1,
+            "name": "Project solver configuration",
+            "optimizationLevel": 1,
+            "outputTiming": false,
+            "printIntermediate": false,
+            "runSolutionChecker": true,
+            "solverFlags": "",
+            "solvingStats": false,
+            "stopAfter": 0,
+            "timeLimit": 0,
+            "useExtraOptions": false,
+            "verboseFlattening": false,
+            "verboseSolving": false,
+            "version": "6.1.1"
+        }
+    ],
+    "selectedProjectConfig": 0,
+    "version": 105
+}
